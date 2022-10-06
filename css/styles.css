@@ -872,6 +872,11 @@ div.box {
 div.rightsidecol img {
 	width: 280px;
 }
+	
+
+div.leftsidecol{
+	margin-top: 30px;
+	}
 
 div.rightsidecol{
 	margin-left: 0px;
