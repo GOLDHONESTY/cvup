@@ -718,9 +718,6 @@ label.cvreglabel {
 }
 
 
-input[type=text]:hover{
-	border: 3px solid steelblue;
-}
 
 input[type=select]:hover{
 	border: 3px solid steelblue;
